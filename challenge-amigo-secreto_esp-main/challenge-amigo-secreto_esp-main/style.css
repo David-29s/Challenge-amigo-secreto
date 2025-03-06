@@ -1,6 +1,6 @@
 :root {
     --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-secondary: #FFF574;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
@@ -17,7 +17,7 @@
 
 body {
     height: 100vh;
-    background-color: #fff;
+    background-color: #FF8383;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #f00;
+    color: #FF8383;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
