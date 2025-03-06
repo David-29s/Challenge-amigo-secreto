@@ -17,7 +17,7 @@
 
 body {
     height: 100vh;
-    background-color: var(--color-primary);
+    background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ body {
 
 /* Sección de entrada */
 .input-section {
-    flex: 60%;
+    flex: 50%;
     background-color: var(--color-secondary);
     border: 1px solid #000;
     border-radius: 64px 64px 0 0;
@@ -58,14 +58,14 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
-    color: var(--color-white);
+    color: #000;
 }
 
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
-    color: var(--color-primary);
+    color: #000;
     margin: 10px 0;
     text-align: center;
 }
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #f00;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
