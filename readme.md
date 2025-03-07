@@ -20,4 +20,4 @@ Este proyecto te permite ingresar los nombres de tus amigos y, al final, sortear
 2. "Presiona 'Añadir' para agregar nombres, completa tu lista y luego presiona 'Sortear amigo'."
 3. Se mostrarán los amigos seleccionados al azar en pantalla.
 
-   Creado por David Sanchez
+🛠️ Creado por **David Sánchez**  
